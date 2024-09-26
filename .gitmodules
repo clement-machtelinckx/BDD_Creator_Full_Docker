@@ -1,0 +1,3 @@
+[submodule "front_BDD_Creator"]
+	path = front_BDD_Creator
+	url = https://github.com/clement-machtelinckx/front_BDD_Creator.git
